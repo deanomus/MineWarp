@@ -1,0 +1,11 @@
+# Auto-generated plugin.yml, generated at 2020/08/30 15:18:22 by org.bukkit.plugin.java.annotation.PluginAnnotationProcessor
+
+main: de.deanomus.minewarp.MineWarpCore
+name: MineWarp
+version: 1.0.0
+description: MineWarp is a simple warpsystem for minecraft servers
+author: deanomus
+website: reinhardt.work
+prefix: MineWarp
+commands: {}
+permissions: {}

@@ -1,0 +1,6 @@
+name: MineWarp
+author: deanomus
+version: 1.0.0
+main: de.deanomus.MineWarpCore
+website: reinhardt.work
+commands:
